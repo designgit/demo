@@ -1,5 +1,5 @@
 #include<stdio.h>
- 
+hello this code has been changed at mater. 
 int main()
 {
    int a, b, c;
