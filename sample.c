@@ -13,3 +13,6 @@ int main()
    
    return 0;
 }
+sum = a+b
+sub = a-b
+
