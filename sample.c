@@ -1,5 +1,9 @@
 #include<stdio.h>
+<<<<<<< HEAD
 hello this code has been changed at mater. 
+=======
+This changes are done in branch 2. 
+>>>>>>> br2
 int main()
 {
    int a, b, c;
