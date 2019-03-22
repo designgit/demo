@@ -1,3 +1,4 @@
+
 #include<stdio.h>
 <<<<<<< HEAD
 hello this code has been changed at mater. 
@@ -19,4 +20,6 @@ int main()
 }
 sum = a+b
 sub = a-b
+fund transfer=the amount has to be transfered from our accountto another
+bal enq=amount available in our account
 
